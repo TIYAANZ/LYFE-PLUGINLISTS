@@ -912,10 +912,10 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 <br />
 <h4 align="center">  ᐉ CS </h1>
 
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/SPARK-SHADOW">SHADOW</a>
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/TIYAANZ">SHADOW</a>
 
 ```js
-https://gist.github.com/SPARK-SHADOW/9fa2a5fb204f4dda538865680709d2f1/raw
+https://gist.github.com/TIYAANZ/9fa2a5fb204f4dda538865680709d2f1/raw
 ```
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :MAKE STICKER WITH 1:1 RATIO <br /> 
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
@@ -1747,10 +1747,10 @@ Example
 <br />
 
 <h4 align="center"> ᐉFancy ttp</h1>
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/SPARK-SHADOW">SPARK-SHADOW</a> <br /> 
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/TIYAANZ">TIYAANZ</a> <br /> 
 
 ```js
-https://gist.githubusercontent.com/SPARK-SHADOW/37dc98cfbcbb45fb790deda1194e20d0
+https://gist.githubusercontent.com/TIYAANZ/37dc98cfbcbb45fb790deda1194e20d0
 ```
 
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : fancy ttp <br /> 
@@ -1923,10 +1923,10 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
 <br />
 <br />
 <h4 align="center"> ᐉ Scam typing&recording </h1>
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/SPARK-SHADOW">SPARK-SHADOW</a> <br /> 
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/TIYAANZ">TIYAANZ</a> <br /> 
 
 ```js
-https://gist.githubusercontent.com/SPARK-SHADOW/aa3991992fae718edb75b380336aff24
+https://gist.githubusercontent.com/TIYAANZ/aa3991992fae718edb75b380336aff24
 ```
 
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : This plugin make scam typing, recording voice to prank others <br /> 
@@ -1935,11 +1935,11 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br />
 
 <h4 align="center">  ᐉHACK </h1>
 
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/SPARK-SHADOW">SHADOW</a>
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/TIYAANZ">SHADOW</a>
 
 
 ```js
-https://gist.githubusercontent.com/SPARK-SHADOW/14d9be053f21192f31e79baaf96c2852/raw
+https://gist.githubusercontent.com/TIYAANZ/14d9be053f21192f31e79baaf96c2852/raw
 ```
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ:Fake hack plugin for just prank <br /> 
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
@@ -2073,7 +2073,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : mention the replied person lyfe00011
 
 <h align="center">  ᐉ IM </h1>
 
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/SPARK-SHADOW">SHADOW</a>
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/TIYAANZ">SHADOW</a>
 
 
 ```js
@@ -2131,7 +2131,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
 <br />
 <h4 align="center">  ᐉRENAME, SETDESC,GPP </h1>
 
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/SPARK-SHADOW">SHADOW</a>
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/TIYAANZ">SHADOW</a>
 
 
 ```js
@@ -2199,12 +2199,12 @@ Example
 <br />
 <br />
 <h4 align="center"> ᐉ Cropped Sticker</h1>
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/SPARK-SHADOW">SPARK-SHADOW</a>
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/TIYAANZ">TIYAANZ</a>
 
 
 
 ```js
-https://gist.githubusercontent.com/SPARK-SHADOW/7a03decfda97e6da7606880d9db85456/raw
+https://gist.githubusercontent.com/TIYAANZ/7a03decfda97e6da7606880d9db85456/raw
 ```
 
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :This plugin help you to make sticker by croping in ratio 1:1<br /> 
@@ -2212,10 +2212,10 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br />
 <br />
 
 <h4 align="center"> ᐉFancy menu v3 (updated)  </h1>
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/SPARK-SHADOW">SPARK-SHADOW</a> <br /> 
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/TIYAANZ">TIYAANZ</a> <br /> 
 
 ```js
-https://gist.github.com/SPARK-SHADOW/2633547513e2fa88e9af5296961598b2
+https://gist.github.com/TIYAANZ/2633547513e2fa88e9af5296961598b2
 ```
 
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : Modified version of menu with time and date <br /> 
@@ -2301,7 +2301,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br />
 
 <h4 align="center"> ᐉLive time</h1>
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/insanebwoi">insanebwoi</a> <br /> 
-ᴄʀᴇᴅɪᴛ ᴛᴏ :<a href="https://github.com/SPARK-SHADOW">SPARK-SHADOW</a> <br /> 
+ᴄʀᴇᴅɪᴛ ᴛᴏ :<a href="https://github.com/TIYAANZ">TIYAANZ</a> <br /> 
 
 ```js
 https://gist.githubusercontent.com/insanebwoi/fb0f9f34e0b36c3b3adc0a3bda2bb8c0/raw
@@ -2458,4 +2458,4 @@ __________________________________
 ### ᴛʜɪs ʙʟᴏɢɢᴇʀ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ✎<br />
 ◨ TIYAANZ◧ <br />
 
- ©Lyfe 00011 USER BOT
+ ©𝙏𝙄𝙔𝞓𝞓𝙉 𝙎𝞝𝗥
